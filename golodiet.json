@@ -37,17 +37,17 @@
     {
       "id": 1,
       "name_category": "Breakfast",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://i0.wp.com/comfortablydomestic.com/wp-content/uploads/2014/01/p1240071edited3.jpg"
     },
     {
       "id": 2,
       "name_category": "Lunch",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://jamesstrange.com/wp-content/uploads/2021/01/Korean-Fish-Stew-14.jpg"
     },
     {
       "id": 3,
       "name_category": "Dessert",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "image": "https://hips.hearstapps.com/delish/assets/17/02/1484060189-delish-cinnomon-baked-pears-1.jpg"
     }
   ],
   "Data": [
