@@ -1,0 +1,77 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "image": "https://www.99.co/blog/indonesia/wp-content/uploads/2021/07/cetak-kartu-bpjs-ketenagakerjaan.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tips",
+      "title": "Melalui Web",
+      "image": "https://www.99.co/blog/indonesia/wp-content/uploads/2021/07/cetak-kartu-bpjs-ketenagakerjaan.jpg",
+      "description": "Cara Cek Saldo BPJSTK dengan Website",
+      "link": "https://andromomu.github.io/mar/denganweb.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tips",
+      "title": "Melalui Aplikasi Mobile",
+      "image": "https://media.suara.com/pictures/653x366/2019/06/19/96620-bpjs-ketenagakerjaan.jpg",
+      "description": "Cara Cek Saldo BPJSTK dengan Mobile App",
+      "link": "https://andromomu.github.io/mar/lewatmobiles.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tips",
+      "title": "Melalui SMS",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2021/03/10/kpk-peringati-hari-anti-korupsi-20210310014703.jpeg",
+      "description": "Cara Cek Saldo BPJSTK dengan sms",
+      "link": "https://andromomu.github.io/mar/dengansms.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tips",
+      "title": "Pengertian Saldo BPJSTK",
+      "image": "https://img.okezone.com/content/2022/06/24/320/2617424/daftar-lengkap-call-center-bpjs-ketenagakerjaan-h1wmyYfXuQ.jpg",
+      "description": "Apa itu saldo BPJS Ketenagakerjaan",
+      "link": "https://andromomu.github.io/mar/pengertianbpjstk.html"
+    }
+  ]
+}
