@@ -1,0 +1,143 @@
+{
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Motor Modif",
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/39/a5/cb39a5e0b71939d00f26302f19e582b4.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/86/36/6d/86366db72a2b27f6aa2e7f6ff46182c2.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/58/7f/a7587f15ae8550217ef7fde7e80bc162.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/83/83/e4/8383e4016eacb01c9f2fd5f060674a75.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/10/64/c91064c4b6d7edaefe0aa332d5671718.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/64/05/79640537d03a4e54cbca0fb43ccf99e9.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/67/58/e967583ee5a996612f4d236ef7b8e64d.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/03/2f/91/032f9197a7c346c21a2531fd44a2be9c.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/dd/80/acdd805487f1d0b97274a292d471b78a.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/44/1c/c1441cf0fab5eda331ebd1d205f6e07a.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/f9/6d/1cf96d4215e30111b0d5910c66da7905.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/73/3c/1b733c26f4f0644721eac952eeceea5a.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/6a/1b/ea6a1b7163e6ef55783915c2071d0b0b.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/14/0f/81/140f81d60b2198f9a69918c535c05a5f.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/7f/7b/c57f7bed5079a049d68ec6f348728874.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Motor Modif",
+      "wallpaper_name": "Var15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/37/84/4e/37844ed818efc1d6e1aea775e54da9d1.jpg"
+    }
+  ]
+}
