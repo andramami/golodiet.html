@@ -89,6 +89,27 @@
       "wallpaper_name": "Koi8",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://archive.org/download/koifish4/koifish7.mp4"
+    },
+    {
+      "id": 9,
+      "name_category": "Koi Fish",
+      "wallpaper_name": "Koi9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/40/2b/f3/402bf3671f461b1fe16196313fd4c642.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Koi Fish",
+      "wallpaper_name": "Koi10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/2c/4b/e92c4b355cdfa0495419a46b94053177.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Koi Fish",
+      "wallpaper_name": "Koi11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/81/3b/bf/813bbfd88f4e0b935cb98460957f59aa.jpg"
     }
   ]
 }
