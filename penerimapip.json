@@ -36,41 +36,41 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "PIP",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/13/pip_43.jpeg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "PIP",
       "title": "Syarat Penerima PIP Kemdikbud",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "image": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/04/08/PIP-2023-sudah-cair-ke-52-juta-siswa-SD-dan-SMP-begini-cara-cek-nama-penerima-dan-besaran-nominal-yang-diperoleh-2856181494.jpg",
+      "description": "Beberapa Syarat Penerima PIP Kemdikbud",
       "link": "https://andromomu.github.io/mar/syaratpenerimapip.html"
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "PIP",
       "title": "Aktivasi Akun untuk Penerima Bantuan PIP",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/13/pip_43.jpeg",
+      "description": "Cara Aktivasi Akun untuk Penerima Bantuan PIP",
       "link": "https://andromomu.github.io/mar/aktivasiakunpip.html"
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "PIP",
       "title": "Nominal Bantuan PIP",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "image": "https://www.newkairos.co/wp-content/uploads/2022/09/705805229.jpg",
+      "description": "Berapa saja Nominal Bantuan PIP",
       "link": "https://andromomu.github.io/mar/nominalbantuan.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "PIP",
       "title": "Cara Cek Penerima PIP",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "image": "https://siedoo.com/wp-content/uploads/2021/01/cairkan-dana-pip.png",
+      "description": "Panduan Cara Cek Penerima PIP,
       "link": "https://andromomu.github.io/mar/cekpenerimapip.html"
     }
   ]
