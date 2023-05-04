@@ -29,127 +29,115 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
+      "name_category": "Kuromi",
       "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Super Car",
-      "wallpaper_name": "Targa",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/564x/82/53/8d/82538d512ec8349f1536b7f03d996ea5.jpg"
     },
     {
       "id": 2,
-      "name_category": "Super Car",
-      "wallpaper_name": "AUDI",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car2.jpeg"
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/3f/97/7b3f977cac7668883a5548851cc49573.jpg"
     },
     {
       "id": 3,
-      "name_category": "Super Car",
-      "wallpaper_name": "Lamborghini online",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/75/77/c67577e6837fa479d2ab60f32ca1ae66.jpg"
     },
     {
       "id": 4,
-      "name_category": "Animals",
-      "wallpaper_name": "Cats Eyes",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/4d/29/9c4d29c0e0ec19ed92c53ac92ad49c31.jpg"
     },
     {
       "id": 5,
-      "name_category": "Nature",
-      "wallpaper_name": "Waterfall",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/82/a8/dd82a8b838d10a55354782cde658a003.jpg"
     },
     {
       "id": 6,
-      "name_category": "Nature",
-      "wallpaper_name": "Mountains",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/6f/8b/c16f8be5b16550fd7f71e85daaf59a47.jpg"
     },
     {
       "id": 7,
-      "name_category": "Animals",
-      "wallpaper_name": "Loves Bird",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+      "wallpaper_url": "https://i.pinimg.com/564x/50/ec/74/50ec749d45fa15d2ad3d01ba839b23c9.jpg"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Online",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/da/03/ffda03395f2aecaf106846234eb80c15.jpg"
     },
     {
       "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Folder Asset",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/48/c8/a1/48c8a1aeba1c784bc44e35d8d92a1ec0.jpg"
     },
     {
       "id": 10,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Beach Online",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
-    },
-    {
-      "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "Live Frog Folder Asset",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/31/a6/90/31a690d37ed32f80a2af8eaec50ea420.jpg"
     },
     {
       "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "Blue Ink",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/fe/8e/c0fe8e08f23c002dd1fd6e29b5ead10d.jpg"
     },
     {
       "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "Summer",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/74/55/3f/74553f4825fc9ecded819d69e75963cf.jpg"
     },
     {
       "id": 13,
-      "name_category": "Vector",
-      "wallpaper_name": "Sunset vecto",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/d5/44/2cd5448cb92fd354f88ace3740b01162.jpg"
     },
     {
       "id": 14,
-      "name_category": "Vector",
-      "wallpaper_name": "Vector island pirate",
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/ca/36/4cca36473a0e5d245c12154b5ca96d90.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Kuromi",
+      "wallpaper_name": "Kur15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/6e/a4/726ea4a05146a1e9e4ffdbfedf3c0d2c.jpg"
     }
   ]
 }
