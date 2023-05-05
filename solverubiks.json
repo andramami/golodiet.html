@@ -36,14 +36,14 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
+      "name_category": "Rubiks Solve",
+      "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/1a_480x480.png"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Rubiks Solve",
       "title": "STEP 1",
       "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/1a_480x480.png",
       "description": "COMPLETE THE FIRST LAYER CROSS",
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "name_category": "Tutorial",
+      "name_category": "Rubiks Solve",
       "title": "STEP 2",
       "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/2a_480x480.png",
       "description": "COMPLETE THE FIRST LAYER CORNERS",
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "name_category": "Tutorial",
+      "name_category": "Rubiks Solve",
       "title": "STEP 3",
       "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/3a_480x480.png",
       "description": "COMPLETE SECOND LAYER",
@@ -67,7 +67,7 @@
     },
     {
       "id": 4,
-      "name_category": "Reskin",
+      "name_category": "Rubiks Solve",
       "title": "STEP 4",
       "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/4b_480x480.png",
       "description": "COMPLETE THE THIRD LAYER CROSS",
@@ -75,7 +75,7 @@
     },
     {
       "id": 5,
-      "name_category": "Reskin",
+      "name_category": "Rubiks Solve",
       "title": "STEP 5",
       "image": "https://cdn.shopify.com/s/files/1/0646/0891/files/step5b_480x480.png",
       "description": "COMPLETE THE THIRD LAYER CORNERS",
